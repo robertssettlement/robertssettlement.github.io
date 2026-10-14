@@ -4,7 +4,7 @@ format: document
 title: "Martha Lucetta Roberts Gilliam and Alzadia Winburn Roberts, ca 1951"
 contributor: "Lezli Davis"
 group: "Roberts Family Historical Collection"
-externalurl: URLHERE
+externalurl:
 embedurl: 
 creationdate: Circa 1951
 type: "Photographic print, b&w"
