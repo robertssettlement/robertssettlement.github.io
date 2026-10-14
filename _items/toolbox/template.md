@@ -1,4 +1,4 @@
----
+/---
 layout: item
 format: document
 title: "TITLE HERE"
@@ -11,6 +11,6 @@ type: "TYPE HERE"
 shortdesc: "Description Here"
 categories: [ Keywords, Separated, By Commas ]
 tags: [  ]
----
+---/
 
 Longer Description Here
