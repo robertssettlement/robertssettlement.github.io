@@ -15,4 +15,4 @@ tags: [ 1940s, Dr. Carl Roberts, Manuscript, ]
 
 "A transcript of Dr. Carl Roberts' radio address given on April 21, 1940 at WBBM radio station, in Chicago, Illinois.
 
-In his address, Dr. Roberts spoke on behalf of the National Medical Association (NMA), an organization formed in 1895 to represent Black physicians and their patients. In his address Dr. Roberts addresses the risks posed by healthcare inequilatity to the Black community, and shares the NMA's dedication to addressing medical and social discrimination."
+In his address, Dr. Roberts spoke on behalf of the National Medical Association (NMA), an organization formed in 1895 to represent Black physicians and their patients. In his address Dr. Roberts addresses the risks posed by healthcare inequality to the Black community, and shares the NMA's dedication to addressing medical and social discrimination."
