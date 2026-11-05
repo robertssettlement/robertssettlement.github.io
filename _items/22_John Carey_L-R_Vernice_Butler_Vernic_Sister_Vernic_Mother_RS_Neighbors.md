@@ -6,7 +6,7 @@ contributor: "Dana Hughes"
 group: "TBD"
 externalurl: 
 embedurl: 
-creationdate: 
+creationdate: Unknown
 type: "Photographic print, b&w"
 shortdesc: "Butler Family studio photograph."
 categories: [ Butler, Carey, Duvall]
