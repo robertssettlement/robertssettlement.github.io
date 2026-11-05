@@ -2,7 +2,7 @@
 layout: item
 format: document
 title: "Roberts Settlement School House 1893"
-contributor: "CLezli Davis"
+contributor: "Lezli Davis"
 group: "Roberts School House #5 Collection"
 externalurl: 
 embedurl: 
