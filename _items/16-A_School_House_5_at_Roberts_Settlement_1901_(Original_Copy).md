@@ -8,7 +8,7 @@ externalurl:
 embedurl: 
 creationdate: Circa 1901
 type: "Photographic print, b&w"
-shortdesc: "Photograph of teachers and studnets in front of Roberts Settlement Schoolhouse #5."
+shortdesc: "Photograph of teachers and students in front of Roberts Settlement Schoolhouse #5."
 categories: [ Winburn, Sweat, Schools, ]
 tags: [1900s, Photographic print, B&W, Lenora Carter, Guy Winburn, Clarence Sweat,]
 ---
