@@ -10,8 +10,7 @@ creationdate: 1913-06-24
 type: "Photographic print, b&w"
 shortdesc: "Group photograph from John Roberts and Nancy Roberts' (née Simpson) 50th Wedding Anniversary."
 categories: [ Roberts, Sweat, Winburn, Family Reunions, Farmers, ]
-tags: [ 1910s, John Roberts, Nancy Elvira (Simpson) Roberts, Lester Roberts, Rhoda Matthews Roberts, Eliza Simpson Keene, Carl Roberts, Lucille (Williams) Roberts, Sadie (Bridgeman) Roberts, Lloyd Roberts, Alzadia (Roberts) Winburn, Thaddeus Winburn, Clara (Roberts) Cooke, Clayton Cooke, Veora (Simpson) Mahoney, Amy Evalina (Roberts) Sweat, Estella Marie Roberts, Catherine Irene Roberts, Howard Cooke, Bernice Keene, Aleatha Winburn, Alva Winburn, Esther Winburn, Arvie Winburn, Flora Edith Roberts,
-" ]
+tags: [ 1910s, John Roberts, Nancy Elvira (Simpson) Roberts, Lester Roberts, Rhoda Matthews Roberts, Eliza Simpson Keene, Carl Roberts, Lucille (Williams) Roberts, Sadie (Bridgeman) Roberts, Lloyd Roberts, Alzadia (Roberts) Winburn, Thaddeus Winburn, Clara (Roberts) Cooke, Clayton Cooke, Veora (Simpson) Mahoney, Amy Evalina (Roberts) Sweat, Estella Marie Roberts, Catherine Irene Roberts, Howard Cooke, Bernice Keene, Aleatha Winburn, Alva Winburn, Esther Winburn, Arvie Winburn, Flora Edith Roberts, ]
 ---
 
 "A group photograph from John Roberts and Nancy Roberts' (née Simpson) 50th Wedding Anniversary. The anniversary was held at Roberts Settlement in 1913.
