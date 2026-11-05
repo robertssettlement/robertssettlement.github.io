@@ -4,7 +4,7 @@ format: document
 title: "Roberts Settlement Historical Timeline"
 contributor: "Tonja Goodloe"
 group: "Roberts Settlement Historical Collection"
-externalurl: URLHERE
+externalurl:
 embedurl: 
 creationdate: 2004-07-03
 type: "Timeline"
