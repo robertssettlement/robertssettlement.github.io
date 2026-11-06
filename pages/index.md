@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Roberts Settlement Digital Archive
 layout: homepage
 permalink: /
 ---
