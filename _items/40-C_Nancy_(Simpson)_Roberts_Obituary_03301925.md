@@ -9,7 +9,7 @@ embedurl:
 creationdate: 1917-05-02
 type: "Manuscript"
 shortdesc: "An obituary of Nancy Roberts (née Simpson)."
-categories: [ Roberts, Wunburn, Sweat, Churches, Wesleyan Methodist,]
+categories: [ Roberts, Winburn, Sweat, Churches, Wesleyan Methodist,]
 tags: [ 1910s, Obituaries, Nancy (Simpson) Roberts, Jacob Simpson, Martha Simpson, John Roberts, Amy Evelyn (Roberts) Sweat, Alzadia (Roberts) Winburn, Jacob Lester Roberts, Clara M (Roberts) Cooke, Dr. Lloyd Luvester Roberts, Dr. Carl Roberts,  ]
 ---
 
